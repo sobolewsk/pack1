@@ -7,6 +7,6 @@
   },
   "exports": ["./*"],
   "dependencies": {
-    "pack2": "git+https://github.com/sobolewsk/packs/pack1"
+    "pack2": "git+https://github.com/sobolewsk/pack2"
   }
 }
