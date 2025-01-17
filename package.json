@@ -1,0 +1,12 @@
+{
+  "name": "pack1",
+  "version": "0.0.1",
+  "displayName": "Sample Pack 1",
+  "tags": {
+    "streamtags": []
+  },
+  "exports": ["./*"],
+  "dependencies": {
+    "pack2": "git+https://github.com/sobolewsk/packs/pack1"
+  }
+}

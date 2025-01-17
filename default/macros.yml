@@ -1,0 +1,12 @@
+macro1:
+  lib: custom
+  replacement: limit 1000 | ${pack2:macro1}
+  createdBy: janusz
+  modified: 1732618174915
+  created: 1732618174915
+macro2:
+  lib: custom
+  replacement: project foo=42
+  createdBy: janusz
+  modified: 1732618174915
+  created: 1732618174915
